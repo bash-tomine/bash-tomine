@@ -1,16 +1,34 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header"/>
 
-<!--
-**bash-tomine/bash-tomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Julia Tomine</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Software Engineer • DevOps • Backend</i>
+</p>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+🎓 Fatec - Systems Analysis and Development (2025 - 2027)  
+🎓 Fortec - High school with computer technician (2022 - 2024)  
+
+</div>
+
+---
+
+## 🛠️ Tools
+
+<p align="Center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+</p>
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=footer"/>
