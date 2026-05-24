@@ -5,9 +5,7 @@
 <p align="center">
   <i>AI Engineer</i>
 </p>
-<hr>
 
----
 
 ## 🛠️ Tools
 
